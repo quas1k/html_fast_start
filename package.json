@@ -1,0 +1,40 @@
+{
+  "name": "html_fast_start",
+  "version": "1.0.0",
+  "description": "Fast start in psd to html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quas1k/html_fast_start.git"
+  },
+  "keywords": [
+    "psdToHtml"
+  ],
+  "author": "Quas1k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quas1k/html_fast_start/issues"
+  },
+  "homepage": "https://github.com/quas1k/html_fast_start#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cache": "^1.0.2",
+    "gulp-clean-css": "^3.9.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^4.0.0",
+    "gulp-uglify": "^3.0.0",
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "imagemin-pngquant": "^5.1.0",
+    "smart-grid": "^2.0.1"
+  }
+}

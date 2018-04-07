@@ -1,0 +1,23 @@
+{
+  "name": "html_fast_start",
+  "description": "Fast start in psd to html",
+  "main": "index.js",
+  "authors": [
+    "Quas1k"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "psdToHtml"
+  ],
+  "homepage": "https://github.com/quas1k/html_fast_start",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jQuery": "^3.3.1"
+  }
+}
